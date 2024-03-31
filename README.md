@@ -16,9 +16,9 @@ Problem Statement:
 	Identify trends for in-demand skills, such as programming languages, databases, and popular IDEs.
 
 Data Sources:
-  Job postings.xlsx webscraped from the Job Postings API
-  popular-languages.csv, which has Annual Salary data from webscraping an HTML table
-  cleaned_m5_survey_data_demographics, which is 2019 Stack Overflow Survey data
+  Job_Postings_API_data.xlsx webscraped from the Job Postings API
+  Programming_Languages_Average_Salary_.csv, which has Annual Salary data from webscraping an HTML table
+  Normalized_2019_Stack_Overflow_data.csv, which is 2019 Stack Overflow Survey data
 
 Deliverables:
   Executive Summary of key findings and insights
