@@ -65,30 +65,30 @@ Exploratory Data Analysis (EDA):
   Next, I used SQL to query the same survey as database tables. From my queries I further explored the dataset
   According to the Stack Overflow Survey
   The top 5 most desired programming language skills from respondents are:
-	JavaScript
-	HTML/CSS
-	Python
-	SQL
+	JavaScript,
+	HTML/CSS,
+	Python,
+	SQL,
 	TypeScript
 
   Top 5 Database skills
-	Postgre
-	MongoDB
-	Redis
-	MySQL
+	Postgre,
+	MongoDB,
+	Redis,
+	MySQL,
 	ElasticSearch
 
   Top 5 Development Environments
-	Visual Studio Code
-	Visual Studio
-	Notepad ++
-	Intellij
+	Visual Studio Code,
+	Visual Studio,
+	Notepad ++,
+	Intellij,
 	Vim
 
   Combined list of Programming Languages and Databases that are on each list:
   5 in-demand skills mentioned across each data source:
-       Python
-       JavaScript
-       SQL
-       PostgreSQL
+       Python,
+       JavaScript,
+       SQL,
+       PostgreSQL,
        MongoDB
